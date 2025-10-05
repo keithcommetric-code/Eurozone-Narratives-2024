@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-This dataset contains analyzed media content related to Bulgaria's potential adoption of the Euro currency, covering the period from July 2022 to July 2023. The data captures various narratives, sentiments, and arguments from Bulgarian media sources regarding Eurozone entry.
+This dataset contains analyzed social media posts and online media content related to Bulgaria's potential adoption of the Euro currency, covering the period from July 2022 to July 2023. The data captures various narratives, sentiments, and arguments from Bulgarian media sources regarding Eurozone entry.
 
 ## 🎯 Purpose
 
